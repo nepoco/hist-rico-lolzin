@@ -1,0 +1,35 @@
+body{
+    
+}
+header{
+    background:rgb(6, 28, 37);
+    height: 300px;
+}
+.banner{
+    width:200px;
+    height:150px;
+    padding: 5%;
+    opacity: 60%;
+    margin-left:50px
+}
+.imagens{
+    display:flex
+}
+.campeao{
+    margin-right: 20px;
+    margin-top: 15px;
+    width:200px;
+    height:280px;
+    display: inline-block;
+}
+.estilo-nome{
+    font-style:italic;
+    margin-top: 0px;
+    font-size: 18px;
+    color: white;
+    background:rgb(6, 28, 37);
+    display: block;
+    width: 180px;
+    padding: 10px;
+    letter-spacing: 0.08em;
+}
